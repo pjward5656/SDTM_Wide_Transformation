@@ -18,6 +18,7 @@ long<-wide %>%
 #Create a metadata file with variables needed for merging from QSTESTCD
 qstestcd_lu<-meta %>% 
   select(QSTESTCD=TESTCODE_VALUE,
+         #Below is not correct, need to figure out how QSSEQ is derived
          QSSEQ=TESTCODE_ORDER,
          QSCAT=CATEGORY,
          QSSCAT=SUBCATEGORY,
@@ -79,6 +80,8 @@ transform_sdtm<-function(x){
 #Example using function
 qs_transform<-wide %>% 
   transform_sdtm()
+
+#Need to compare the two datasets and make sure there aren't differences
 
 
 
