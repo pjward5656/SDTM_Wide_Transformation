@@ -11,16 +11,16 @@ meta<-read_sas("J:/BACPAC/SC/Review/BP0001/200706/qsmd_metadata.sas7bdat")
 #Lets write this as normal code first, then convert into a generalizable function
 wide<-qs %>% 
   #Selecting the variables I believe I need
-  select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESC) %>% 
-  pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC),
+  select(USUBJID, VISIT, QSDTC, QSDY, QSTESTCD, QSSTRESC) %>% 
+  pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC, QSDY),
               names_from=QSTESTCD,
               values_from=QSSTRESC)
 
 #As a function
 transform_wide<-function(x){
   x %>% 
-    select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESC) %>% 
-    pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC),
+    select(USUBJID, VISIT, QSDTC, QSDY, QSTESTCD, QSSTRESC) %>% 
+    pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC, QSDY),
                 names_from=QSTESTCD,
                 values_from=QSSTRESC)
 }
