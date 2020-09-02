@@ -18,8 +18,6 @@ long<-wide %>%
 #Create a metadata file with variables needed for merging from QSTESTCD
 qstestcd_lu<-meta %>% 
   select(QSTESTCD=TESTCODE_VALUE,
-         #Below is not correct, need to figure out how QSSEQ is derived
-         QSSEQ=TESTCODE_ORDER,
          QSCAT=CATEGORY,
          QSSCAT=SUBCATEGORY,
          QSTEST=TEST_VALUE,
@@ -43,11 +41,16 @@ qs_<-long %>%
   mutate(STUDYID=str_split(USUBJID, "-", simplify=TRUE)[1],
          VISITNUM=str_split(VISIT, " ", simplify=TRUE)[,2],
          DOMAIN="QS") %>% 
-  #Need to merge in QSSEQ, QSCAT, QSSCAT, QSTEST, and QSEVLNT based on QSTESTCD
+  #Need to merge in QSCAT, QSSCAT, QSTEST, and QSEVLNT based on QSTESTCD
   left_join(qstestcd_lu) %>% 
-  arrange(USUBJID, VISIT, QSSEQ) %>% 
+  arrange(USUBJID, VISIT) %>% 
   #Need to merge in QSSTRESN and QSDRVFL based upon QSTESTCD and QSSTRESC
   left_join(qsstresc_lu) %>% 
+  #Arrange by needed variables and create the QSSEQ variable
+  arrange(STUDYID, USUBJID, QSCAT, QSSCAT, VISITNUM, QSTESTCD) %>% 
+  group_by(USUBJID) %>% 
+  mutate(QSSEQ=1:n()) %>% 
+  ungroup() %>% 
   select(order)
 
 #Export our lookup tables and write this as a function
@@ -69,11 +72,16 @@ transform_sdtm<-function(x){
     mutate(STUDYID=str_split(USUBJID, "-", simplify=TRUE)[1],
            VISITNUM=str_split(VISIT, " ", simplify=TRUE)[,2],
            DOMAIN="QS") %>% 
-    #Need to merge in QSSEQ, QSCAT, QSSCAT, QSTEST, and QSEVLNT based on QSTESTCD
+    #Need to merge in QSCAT, QSSCAT, QSTEST, and QSEVLNT based on QSTESTCD
     left_join(qstestcd_lu) %>% 
-    arrange(USUBJID, VISIT, QSSEQ) %>% 
+    arrange(USUBJID, VISIT) %>% 
     #Need to merge in QSSTRESN and QSDRVFL based upon QSTESTCD and QSSTRESC
     left_join(qsstresc_lu) %>% 
+    #Arrange by needed variables and create the QSSEQ variable
+    arrange(STUDYID, USUBJID, QSCAT, QSSCAT, VISITNUM, QSTESTCD) %>% 
+    group_by(USUBJID) %>% 
+    mutate(QSSEQ=1:n()) %>% 
+    ungroup() %>% 
     select(order)
 }
 
