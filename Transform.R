@@ -9,6 +9,7 @@ meta<-read_sas("J:/BACPAC/SC/Review/BP0001/200706/qsmd_metadata.sas7bdat")
 
 
 #Lets write this as normal code first, then convert into a generalizable function
+#I need to remove any derived variables and remove the study day
 wide<-qs %>% 
   #Selecting the variables I believe I need
   select(USUBJID, VISIT, QSDTC, QSDY, QSTESTCD, QSSTRESC) %>% 
