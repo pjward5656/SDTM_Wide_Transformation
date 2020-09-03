@@ -20,7 +20,8 @@ vars<-derived$TESTCODE_VALUE
 #So, the derived variables are derived from QSTRESN, not QSTRESC. This is problematic based on how I created the wide dataset.
 #With how I have it setup currently, I would need to transpose the wide data to long, merge the QSTRESN values into the data,
 #transpose back to wide, then calculate the derived variables, and then transpose to long once more and add the rest of the
-#information for the QS dataset.
+#information for the QS dataset. I could also derive them in long format for less transposing, but this would involve 
+#calculations across rows (as opposed to just across columns) which would make the code a bit more complex.
 #The other option is to create the initial wide file as values with QSTRESN rather than QSTRESC, in which case the process
 #for transforming this wide file to SDTM would be calculating the derived variables, transposing to long and adding in the
 #additional QS information/fields. This is simpler but it depends on what format of a wide file we'd typically receive.
