@@ -9,19 +9,21 @@ meta<-read_sas("J:/BACPAC/SC/Review/BP0001/200706/qsmd_metadata.sas7bdat")
 
 
 #Lets write this as normal code first, then convert into a generalizable function
-#I need to remove any derived variables and remove the study day
 wide<-qs %>% 
+  #Remove derived variables
+  filter(QSDRVFL!="Y") %>% 
   #Selecting the variables I believe I need
-  select(USUBJID, VISIT, QSDTC, QSDY, QSTESTCD, QSSTRESC) %>% 
-  pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC, QSDY),
+  select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESC) %>% 
+  pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC),
               names_from=QSTESTCD,
               values_from=QSSTRESC)
 
 #As a function
 transform_wide<-function(x){
   x %>% 
-    select(USUBJID, VISIT, QSDTC, QSDY, QSTESTCD, QSSTRESC) %>% 
-    pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC, QSDY),
+    filter(QSDRVFL!="Y") %>%
+    select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESC) %>% 
+    pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC),
                 names_from=QSTESTCD,
                 values_from=QSSTRESC)
 }
