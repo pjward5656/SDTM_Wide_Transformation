@@ -12,20 +12,20 @@ meta<-read_sas("J:/BACPAC/SC/Review/BP0001/200706/qsmd_metadata.sas7bdat")
 wide<-qs %>% 
   #Remove derived variables
   filter(QSDRVFL!="Y") %>% 
-  #Selecting the variables I believe I need
-  select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESC) %>% 
+  #Selecting the variables we need
+  select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESN) %>% 
   pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC),
               names_from=QSTESTCD,
-              values_from=QSSTRESC)
+              values_from=QSSTRESN)
 
 #As a function
 transform_wide<-function(x){
   x %>% 
     filter(QSDRVFL!="Y") %>%
-    select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESC) %>% 
+    select(USUBJID, VISIT, QSDTC, QSTESTCD, QSSTRESN) %>% 
     pivot_wider(id_cols=c(USUBJID, VISIT, QSDTC),
                 names_from=QSTESTCD,
-                values_from=QSSTRESC)
+                values_from=QSSTRESN)
 }
 
 #Example use
