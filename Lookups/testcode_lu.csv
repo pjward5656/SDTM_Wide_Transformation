@@ -1,75 +1,75 @@
-QSTESTCD,QSCAT,QSSCAT,QSTEST,QSEVLNT
-GAD01,Anxiety,GAD,"How often bothered by feeling nervous, anxious or on edge",-P2W
-GAD02,Anxiety,GAD,How often bothered by not being able to stop or control worrying,-P2W
-GAD2RAW,Anxiety,GAD,GAD-2 Raw Score,-P2W
-EDANX01,Anxiety,PROMIS Emotional Distress - Anxiety,I felt fearful,-P7D
-EDANX40,Anxiety,PROMIS Emotional Distress - Anxiety,Hard to focus on anything other than anxiety,-P7D
-EDANX41,Anxiety,PROMIS Emotional Distress - Anxiety,My worries overwhelm me,-P7D
-EDANX53,Anxiety,PROMIS Emotional Distress - Anxiety,I felt uneasy,-P7D
-PRANX4AR,Anxiety,PROMIS Emotional Distress - Anxiety,PROMIS-Anxiety 4a Raw Score,-P7D
-PRANX4AT,Anxiety,PROMIS Emotional Distress - Anxiety,PROMIS-Anxiety 4a T-Score,-P7D
-EDDEP04,Depression,PROMIS Emotional Distress - Depression,I felt worthless,-P7D
-EDDEP06,Depression,PROMIS Emotional Distress - Depression,I felt helpless,-P7D
-EDDEP29,Depression,PROMIS Emotional Distress - Depression,I felt depressed,-P7D
-EDDEP41,Depression,PROMIS Emotional Distress - Depression,I felt hopeless,-P7D
-PRDEP4AR,Depression,PROMIS Emotional Distress - Depression,PROMIS-Depression 4a Raw Score,-P7D
-PRDEP4AT,Depression,PROMIS Emotional Distress - Depression,PROMIS-Depression 4a T-Score,-P7D
-PAININ9,Pain Interference,PROMIS Pain Interference,How much did pain interfere with your day to day activities,-P7D
-PAININ22,Pain Interference,PROMIS Pain Interference,How much did pain interfere with work around the home,-P7D
-PAININ31,Pain Interference,PROMIS Pain Interference,How much did pain interfere with social activities,-P7D
-PAININ34,Pain Interference,PROMIS Pain Interference,How much did pain interfere with household chores,-P7D
-PRPI4AR,Pain Interference,PROMIS Pain Interference,PROMIS-Pain Interference 4a Raw Score,-P7D
-PRPI4AT,Pain Interference,PROMIS Pain Interference,PROMIS-Pain Interference 4a T-Score,-P7D
-PFA11,Physical Function,PROMIS Physical Function,Able to do chores such as vacuuming or yard work,
-PFA21,Physical Function,PROMIS Physical Function,Able to go up and down stairs at a normal pace,
-PFA23,Physical Function,PROMIS Physical Function,Able to go for a walk of at least 15 minutes,
-PFA53,Physical Function,PROMIS Physical Function,Able to run errands and shop,
-PFC12,Physical Function,PROMIS Physical Function,Health limit you in doing two hours of physical labor,
-PFB1,Physical Function,PROMIS Physical Function,Health limit you in doing moderate work around the house,
-PRPF6BR,Physical Function,PROMIS Physical Function,PROMIS-Physical Function 6b Raw Score,
-PRPF6BT,Physical Function,PROMIS Physical Function,PROMIS-Physical Function 6b T-Score,
-SLEEP109,Sleep,PROMIS Sleep Disturbance,My sleep quality was,-P7D
-SLEEP116,Sleep,PROMIS Sleep Disturbance,My sleep was refreshing,-P7D
-SLEEP20,Sleep,PROMIS Sleep Disturbance,I had a problem with my sleep,-P7D
-SLEEP44,Sleep,PROMIS Sleep Disturbance,I had difficulty falling asleep,-P7D
-SLEEP108,Sleep,PROMIS Sleep Disturbance,My sleep was restless,-P7D
-SLEEP72,Sleep,PROMIS Sleep Disturbance,I tried hard to get to sleep,-P7D
-PRSD6AR,Sleep,PROMIS Sleep Disturbance,PROMIS-Sleep Disturbance 6a Raw Score,-P7D
-PRSD6AT,Sleep,PROMIS Sleep Disturbance,PROMIS-Sleep Disturbance 6a T-Score,-P7D
-PCS4,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain it's awful and I feel that it overwhelms me,
-PCS5,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I feel I can't stand it anymore,
-PCS6,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I become afraid that the pain will get worse,
-PCS10,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I keep thinking about how much it hurts,
-PCS11,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I keep thinking about how badly I want the pain to stop,
-PCS13,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I wonder whether something serious may happen,
-PCSRAW,Pain Catastrophizing,Pain Catastrophizing Scale,Pain Catastrophizing Raw Score,
-PGIC1,Patient Satisfaction,Patient Global Impression of Change,My overall pain since the start of the study (treatment),Study start
-TAPS1Q1,Substance Use,TAPS,How often have you used any tobacco product,-P12M
-TAPS1Q2,Substance Use,TAPS,How often have you had 5 or more drinks in one day,-P12M
-TAPS1Q3,Substance Use,TAPS,How often have you had 4 or more drinks in one day,-P12M
-TAPS1Q4,Substance Use,TAPS,How often have you used any recreational drugs,-P12M
-TAPS1Q5,Substance Use,TAPS,How often have you used Rx meds not as prescribed,-P12M
-PHQ01,Depression,PHQ,How often have you had little interest or pleasure in doing things,-P2W
-PHQ02,Depression,PHQ,"How often have you been feeling down, depressed, or hopeless",-P2W
-PHQ2RAW,Depression,PHQ,PHQ-2 Raw Score,-P2W
-PSQI4,Sleep,Sleep Duration,How many hours and minutes of actual sleep at night,-P1M
-LBPDF01,Pain Duration and Frequency,Low Back Pain Duration and Frequency,How long has low back pain been an ongoing problem for you,
-LBPDF02,Pain Duration and Frequency,Low Back Pain Duration and Frequency,How often has low back pain been an ongoing problem for you,-P6M
-RADLBP1,Pain Location,Radicular Low Back Pain,Has back pain spread to your buttock or thigh,-P2W
-RADLBP2,Pain Location,Radicular Low Back Pain,Has back pain spread below your knee,-P2W
-PNAREA1,Widespread Pain,Widespread Pain Inventory,Do you have chronic pain in the head or face,
-PNAREA2,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the right hand, arm, or shoulder",
-PNAREA3,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the left hand, arm, or shoulder",
-PNAREA4,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the right buttock, leg, or foot",
-PNAREA5,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the left buttock, leg, or foot",
-PNAREA6,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the chest, abdomen, or pelvis",
-PNAREA7,Widespread Pain,Widespread Pain Inventory,Do you have chronic pain in the neck or upper back,
-WDSPPNUM,Widespread Pain,Widespread Pain Inventory,Widespread Pain Raw Score,
-PSOM1,Pain Somatization,Abbreviated Pain Somatization,How much have you been bothered by stomach pain,-P4W
-PSOM2,Pain Somatization,Abbreviated Pain Somatization,How much have you been bothered by headaches,-P4W
-PEG1,Pain Intensity and Interference,PEG,Pain on average,-P1W
-PEG2,Pain Intensity and Interference,PEG,How pain has interfered with your enjoyment of life,-P1W
-PEG3,Pain Intensity and Interference,PEG,How pain has interfered with your general activity,-P1W
-PEGSCORE,Pain Intensity and Interference,PEG,PEG averaged score,-P1W
-LBPPINT1,Pain Intensity,Low Back Pain Intensity,How would you rate your low back pain on average,-P7D
-OPIOID01,Opioid Use,Current Opioid Use,Are you currently taking any opioid pain medication on a daily basis,
+QSTESTCD,QSCAT,QSSCAT,QSTEST,QSEVLNT,QSDRVFL
+GAD01,Anxiety,GAD,"How often bothered by feeling nervous, anxious or on edge",-P2W,
+GAD02,Anxiety,GAD,How often bothered by not being able to stop or control worrying,-P2W,
+GAD2RAW,Anxiety,GAD,GAD-2 Raw Score,-P2W,Y
+EDANX01,Anxiety,PROMIS Emotional Distress - Anxiety,I felt fearful,-P7D,
+EDANX40,Anxiety,PROMIS Emotional Distress - Anxiety,Hard to focus on anything other than anxiety,-P7D,
+EDANX41,Anxiety,PROMIS Emotional Distress - Anxiety,My worries overwhelm me,-P7D,
+EDANX53,Anxiety,PROMIS Emotional Distress - Anxiety,I felt uneasy,-P7D,
+PRANX4AR,Anxiety,PROMIS Emotional Distress - Anxiety,PROMIS-Anxiety 4a Raw Score,-P7D,Y
+PRANX4AT,Anxiety,PROMIS Emotional Distress - Anxiety,PROMIS-Anxiety 4a T-Score,-P7D,Y
+EDDEP04,Depression,PROMIS Emotional Distress - Depression,I felt worthless,-P7D,
+EDDEP06,Depression,PROMIS Emotional Distress - Depression,I felt helpless,-P7D,
+EDDEP29,Depression,PROMIS Emotional Distress - Depression,I felt depressed,-P7D,
+EDDEP41,Depression,PROMIS Emotional Distress - Depression,I felt hopeless,-P7D,
+PRDEP4AR,Depression,PROMIS Emotional Distress - Depression,PROMIS-Depression 4a Raw Score,-P7D,Y
+PRDEP4AT,Depression,PROMIS Emotional Distress - Depression,PROMIS-Depression 4a T-Score,-P7D,Y
+PAININ9,Pain Interference,PROMIS Pain Interference,How much did pain interfere with your day to day activities,-P7D,
+PAININ22,Pain Interference,PROMIS Pain Interference,How much did pain interfere with work around the home,-P7D,
+PAININ31,Pain Interference,PROMIS Pain Interference,How much did pain interfere with social activities,-P7D,
+PAININ34,Pain Interference,PROMIS Pain Interference,How much did pain interfere with household chores,-P7D,
+PRPI4AR,Pain Interference,PROMIS Pain Interference,PROMIS-Pain Interference 4a Raw Score,-P7D,Y
+PRPI4AT,Pain Interference,PROMIS Pain Interference,PROMIS-Pain Interference 4a T-Score,-P7D,Y
+PFA11,Physical Function,PROMIS Physical Function,Able to do chores such as vacuuming or yard work,,
+PFA21,Physical Function,PROMIS Physical Function,Able to go up and down stairs at a normal pace,,
+PFA23,Physical Function,PROMIS Physical Function,Able to go for a walk of at least 15 minutes,,
+PFA53,Physical Function,PROMIS Physical Function,Able to run errands and shop,,
+PFC12,Physical Function,PROMIS Physical Function,Health limit you in doing two hours of physical labor,,
+PFB1,Physical Function,PROMIS Physical Function,Health limit you in doing moderate work around the house,,
+PRPF6BR,Physical Function,PROMIS Physical Function,PROMIS-Physical Function 6b Raw Score,,Y
+PRPF6BT,Physical Function,PROMIS Physical Function,PROMIS-Physical Function 6b T-Score,,Y
+SLEEP109,Sleep,PROMIS Sleep Disturbance,My sleep quality was,-P7D,
+SLEEP116,Sleep,PROMIS Sleep Disturbance,My sleep was refreshing,-P7D,
+SLEEP20,Sleep,PROMIS Sleep Disturbance,I had a problem with my sleep,-P7D,
+SLEEP44,Sleep,PROMIS Sleep Disturbance,I had difficulty falling asleep,-P7D,
+SLEEP108,Sleep,PROMIS Sleep Disturbance,My sleep was restless,-P7D,
+SLEEP72,Sleep,PROMIS Sleep Disturbance,I tried hard to get to sleep,-P7D,
+PRSD6AR,Sleep,PROMIS Sleep Disturbance,PROMIS-Sleep Disturbance 6a Raw Score,-P7D,Y
+PRSD6AT,Sleep,PROMIS Sleep Disturbance,PROMIS-Sleep Disturbance 6a T-Score,-P7D,Y
+PCS4,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain it's awful and I feel that it overwhelms me,,
+PCS5,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I feel I can't stand it anymore,,
+PCS6,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I become afraid that the pain will get worse,,
+PCS10,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I keep thinking about how much it hurts,,
+PCS11,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I keep thinking about how badly I want the pain to stop,,
+PCS13,Pain Catastrophizing,Pain Catastrophizing Scale,When in pain I wonder whether something serious may happen,,
+PCSRAW,Pain Catastrophizing,Pain Catastrophizing Scale,Pain Catastrophizing Raw Score,,Y
+PGIC1,Patient Satisfaction,Patient Global Impression of Change,My overall pain since the start of the study (treatment),Study start,
+TAPS1Q1,Substance Use,TAPS,How often have you used any tobacco product,-P12M,
+TAPS1Q2,Substance Use,TAPS,How often have you had 5 or more drinks in one day,-P12M,
+TAPS1Q3,Substance Use,TAPS,How often have you had 4 or more drinks in one day,-P12M,
+TAPS1Q4,Substance Use,TAPS,How often have you used any recreational drugs,-P12M,
+TAPS1Q5,Substance Use,TAPS,How often have you used Rx meds not as prescribed,-P12M,
+PHQ01,Depression,PHQ,How often have you had little interest or pleasure in doing things,-P2W,
+PHQ02,Depression,PHQ,"How often have you been feeling down, depressed, or hopeless",-P2W,
+PHQ2RAW,Depression,PHQ,PHQ-2 Raw Score,-P2W,Y
+PSQI4,Sleep,Sleep Duration,How many hours and minutes of actual sleep at night,-P1M,
+LBPDF01,Pain Duration and Frequency,Low Back Pain Duration and Frequency,How long has low back pain been an ongoing problem for you,,
+LBPDF02,Pain Duration and Frequency,Low Back Pain Duration and Frequency,How often has low back pain been an ongoing problem for you,-P6M,
+RADLBP1,Pain Location,Radicular Low Back Pain,Has back pain spread to your buttock or thigh,-P2W,
+RADLBP2,Pain Location,Radicular Low Back Pain,Has back pain spread below your knee,-P2W,
+PNAREA1,Widespread Pain,Widespread Pain Inventory,Do you have chronic pain in the head or face,,
+PNAREA2,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the right hand, arm, or shoulder",,
+PNAREA3,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the left hand, arm, or shoulder",,
+PNAREA4,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the right buttock, leg, or foot",,
+PNAREA5,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the left buttock, leg, or foot",,
+PNAREA6,Widespread Pain,Widespread Pain Inventory,"Do you have chronic pain in the chest, abdomen, or pelvis",,
+PNAREA7,Widespread Pain,Widespread Pain Inventory,Do you have chronic pain in the neck or upper back,,
+WDSPPNUM,Widespread Pain,Widespread Pain Inventory,Widespread Pain Raw Score,,Y
+PSOM1,Pain Somatization,Abbreviated Pain Somatization,How much have you been bothered by stomach pain,-P4W,
+PSOM2,Pain Somatization,Abbreviated Pain Somatization,How much have you been bothered by headaches,-P4W,
+PEG1,Pain Intensity and Interference,PEG,Pain on average,-P1W,
+PEG2,Pain Intensity and Interference,PEG,How pain has interfered with your enjoyment of life,-P1W,
+PEG3,Pain Intensity and Interference,PEG,How pain has interfered with your general activity,-P1W,
+PEGSCORE,Pain Intensity and Interference,PEG,PEG averaged score,-P1W,Y
+LBPPINT1,Pain Intensity,Low Back Pain Intensity,How would you rate your low back pain on average,-P7D,
+OPIOID01,Opioid Use,Current Opioid Use,Are you currently taking any opioid pain medication on a daily basis,,

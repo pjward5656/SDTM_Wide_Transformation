@@ -1,296 +1,296 @@
-QSTESTCD,QSSTRESC,QSSTRESN,QSDRVFL
-GAD01,Not at all,0,
-GAD01,Several days,1,
-GAD01,More than half the days,2,
-GAD01,Nearly every day,3,
-GAD02,Not at all,0,
-GAD02,Several days,1,
-GAD02,More than half the days,2,
-GAD02,Nearly every day,3,
-GAD2RAW,,,Y
-EDANX01,Never,1,
-EDANX01,Rarely,2,
-EDANX01,Sometimes,3,
-EDANX01,Often,4,
-EDANX01,Always,5,
-EDANX40,Never,1,
-EDANX40,Rarely,2,
-EDANX40,Sometimes,3,
-EDANX40,Often,4,
-EDANX40,Always,5,
-EDANX41,Never,1,
-EDANX41,Rarely,2,
-EDANX41,Sometimes,3,
-EDANX41,Often,4,
-EDANX41,Always,5,
-EDANX53,Never,1,
-EDANX53,Rarely,2,
-EDANX53,Sometimes,3,
-EDANX53,Often,4,
-EDANX53,Always,5,
-PRANX4AR,,,Y
-PRANX4AT,,,Y
-EDDEP04,Never,1,
-EDDEP04,Rarely,2,
-EDDEP04,Sometimes,3,
-EDDEP04,Often,4,
-EDDEP04,Always,5,
-EDDEP06,Never,1,
-EDDEP06,Rarely,2,
-EDDEP06,Sometimes,3,
-EDDEP06,Often,4,
-EDDEP06,Always,5,
-EDDEP29,Never,1,
-EDDEP29,Rarely,2,
-EDDEP29,Sometimes,3,
-EDDEP29,Often,4,
-EDDEP29,Always,5,
-EDDEP41,Never,1,
-EDDEP41,Rarely,2,
-EDDEP41,Sometimes,3,
-EDDEP41,Often,4,
-EDDEP41,Always,5,
-PRDEP4AR,,,Y
-PRDEP4AT,,,Y
-PAININ9,Not at all,1,
-PAININ9,A little bit,2,
-PAININ9,Somewhat,3,
-PAININ9,Quite a bit,4,
-PAININ9,Very much,5,
-PAININ22,Not at all,1,
-PAININ22,A little bit,2,
-PAININ22,Somewhat,3,
-PAININ22,Quite a bit,4,
-PAININ22,Very much,5,
-PAININ31,Not at all,1,
-PAININ31,A little bit,2,
-PAININ31,Somewhat,3,
-PAININ31,Quite a bit,4,
-PAININ31,Very much,5,
-PAININ34,Not at all,1,
-PAININ34,A little bit,2,
-PAININ34,Somewhat,3,
-PAININ34,Quite a bit,4,
-PAININ34,Very much,5,
-PRPI4AR,,,Y
-PRPI4AT,,,Y
-PFA11,Unable to do,1,
-PFA11,With much difficulty,2,
-PFA11,With some difficulty,3,
-PFA11,With a little difficulty,4,
-PFA11,Without any difficulty,5,
-PFA21,Unable to do,1,
-PFA21,With much difficulty,2,
-PFA21,With some difficulty,3,
-PFA21,With a little difficulty,4,
-PFA21,Without any difficulty,5,
-PFA23,Unable to do,1,
-PFA23,With much difficulty,2,
-PFA23,With some difficulty,3,
-PFA23,With a little difficulty,4,
-PFA23,Without any difficulty,5,
-PFA53,Unable to do,1,
-PFA53,With much difficulty,2,
-PFA53,With some difficulty,3,
-PFA53,With a little difficulty,4,
-PFA53,Without any difficulty,5,
-PFC12,Cannot do,1,
-PFC12,Quite a lot,2,
-PFC12,Somewhat,3,
-PFC12,Very little,4,
-PFC12,Not at all,5,
-PFB1,Cannot do,1,
-PFB1,Quite a lot,2,
-PFB1,Somewhat,3,
-PFB1,Very little,4,
-PFB1,Not at all,5,
-PRPF6BR,,,Y
-PRPF6BT,,,Y
-SLEEP109,Very good,1,
-SLEEP109,Good,2,
-SLEEP109,Fair,3,
-SLEEP109,Poor,4,
-SLEEP109,Very poor,5,
-SLEEP116,Very much,1,
-SLEEP116,Quite a bit,2,
-SLEEP116,Somewhat,3,
-SLEEP116,A little bit,4,
-SLEEP116,Not at all,5,
-SLEEP20,Not at all,1,
-SLEEP20,A little bit,2,
-SLEEP20,Somewhat,3,
-SLEEP20,Quite a bit,4,
-SLEEP20,Very much,5,
-SLEEP44,Not at all,1,
-SLEEP44,A little bit,2,
-SLEEP44,Somewhat,3,
-SLEEP44,Quite a bit,4,
-SLEEP44,Very much,5,
-SLEEP108,Not at all,1,
-SLEEP108,A little bit,2,
-SLEEP108,Somewhat,3,
-SLEEP108,Quite a bit,4,
-SLEEP108,Very much,5,
-SLEEP72,Not at all,1,
-SLEEP72,A little bit,2,
-SLEEP72,Somewhat,3,
-SLEEP72,Quite a bit,4,
-SLEEP72,Very much,5,
-PRSD6AR,,,Y
-PRSD6AT,,,Y
-PCS4,Not at all,0,
-PCS4,To a slight degree,1,
-PCS4,To a moderate degree,2,
-PCS4,To a great degree,3,
-PCS4,All the time,4,
-PCS5,Not at all,0,
-PCS5,To a slight degree,1,
-PCS5,To a moderate degree,2,
-PCS5,To a great degree,3,
-PCS5,All the time,4,
-PCS6,Not at all,0,
-PCS6,To a slight degree,1,
-PCS6,To a moderate degree,2,
-PCS6,To a great degree,3,
-PCS6,All the time,4,
-PCS10,Not at all,0,
-PCS10,To a slight degree,1,
-PCS10,To a moderate degree,2,
-PCS10,To a great degree,3,
-PCS10,All the time,4,
-PCS11,Not at all,0,
-PCS11,To a slight degree,1,
-PCS11,To a moderate degree,2,
-PCS11,To a great degree,3,
-PCS11,All the time,4,
-PCS13,Not at all,0,
-PCS13,To a slight degree,1,
-PCS13,To a moderate degree,2,
-PCS13,To a great degree,3,
-PCS13,All the time,4,
-PCSRAW,,,Y
-PGIC1,Very much improved,0,
-PGIC1,Much improved,1,
-PGIC1,Minimally improved,2,
-PGIC1,No change,3,
-PGIC1,Minimally worse,4,
-PGIC1,Much worse,5,
-PGIC1,Very much worse,6,
-TAPS1Q1,Daily or almost daily,0,
-TAPS1Q1,Weekly,1,
-TAPS1Q1,Monthly,2,
-TAPS1Q1,Less than monthly,3,
-TAPS1Q1,Never,4,
-TAPS1Q2,Daily or almost daily,0,
-TAPS1Q2,Weekly,1,
-TAPS1Q2,Monthly,2,
-TAPS1Q2,Less than monthly,3,
-TAPS1Q2,Never,4,
-TAPS1Q3,Daily or almost daily,0,
-TAPS1Q3,Weekly,1,
-TAPS1Q3,Monthly,2,
-TAPS1Q3,Less than monthly,3,
-TAPS1Q3,Never,4,
-TAPS1Q4,Daily or almost daily,0,
-TAPS1Q4,Weekly,1,
-TAPS1Q4,Monthly,2,
-TAPS1Q4,Less than monthly,3,
-TAPS1Q4,Never,4,
-TAPS1Q5,Daily or almost daily,0,
-TAPS1Q5,Weekly,1,
-TAPS1Q5,Monthly,2,
-TAPS1Q5,Less than monthly,3,
-TAPS1Q5,Never,4,
-PHQ01,Not at all,0,
-PHQ01,Several days,1,
-PHQ01,More than half the days,2,
-PHQ01,Nearly every day,3,
-PHQ02,Not at all,0,
-PHQ02,Several days,1,
-PHQ02,More than half the days,2,
-PHQ02,Nearly every day,3,
-PHQ2RAW,,,Y
-PSQI4,,,
-LBPDF01,<3 months,1,
-LBPDF01,3-6 months,2,
-LBPDF01,6 months-1 year,3,
-LBPDF01,1 to 5 years,4,
-LBPDF01,More than 5 years,5,
-LBPDF02,Every day or nearly every day,1,
-LBPDF02,At least half the days,2,
-LBPDF02,Less than half the days,3,
-RADLBP1,Yes,1,
-RADLBP1,No,0,
-RADLBP1,Not sure,99,
-RADLBP2,Yes,1,
-RADLBP2,No,0,
-RADLBP2,Not sure,99,
-PNAREA1,Yes,1,
-PNAREA1,No,0,
-PNAREA2,Yes,1,
-PNAREA2,No,0,
-PNAREA3,Yes,1,
-PNAREA3,No,0,
-PNAREA4,Yes,1,
-PNAREA4,No,0,
-PNAREA5,Yes,1,
-PNAREA5,No,0,
-PNAREA6,Yes,1,
-PNAREA6,No,0,
-PNAREA7,Yes,1,
-PNAREA7,No,0,
-WDSPPNUM,,,Y
-PSOM1,Not bothered at all,1,
-PSOM1,Bothered a little,2,
-PSOM1,Bothered a lot,3,
-PSOM2,Not bothered at all,1,
-PSOM2,Bothered a little,2,
-PSOM2,Bothered a lot,3,
-PEG1,No pain,0,
-PEG1,1,1,
-PEG1,2,2,
-PEG1,3,3,
-PEG1,4,4,
-PEG1,5,5,
-PEG1,6,6,
-PEG1,7,7,
-PEG1,8,8,
-PEG1,9,9,
-PEG1,Worst pain imaginable,10,
-PEG2,No pain,0,
-PEG2,1,1,
-PEG2,2,2,
-PEG2,3,3,
-PEG2,4,4,
-PEG2,5,5,
-PEG2,6,6,
-PEG2,7,7,
-PEG2,8,8,
-PEG2,9,9,
-PEG2,Completely interferes,10,
-PEG3,No pain,0,
-PEG3,1,1,
-PEG3,2,2,
-PEG3,3,3,
-PEG3,4,4,
-PEG3,5,5,
-PEG3,6,6,
-PEG3,7,7,
-PEG3,8,8,
-PEG3,9,9,
-PEG3,Completely interferes,10,
-PEGSCORE,,,Y
-LBPPINT1,No pain,0,
-LBPPINT1,1,1,
-LBPPINT1,2,2,
-LBPPINT1,3,3,
-LBPPINT1,4,4,
-LBPPINT1,5,5,
-LBPPINT1,6,6,
-LBPPINT1,7,7,
-LBPPINT1,8,8,
-LBPPINT1,9,9,
-LBPPINT1,Worst pain imaginable,10,
-OPIOID01,Yes,1,
-OPIOID01,No,0,
-OPIOID01,Not sure,99,
+QSTESTCD,QSSTRESC,QSSTRESN
+GAD01,Not at all,0
+GAD01,Several days,1
+GAD01,More than half the days,2
+GAD01,Nearly every day,3
+GAD02,Not at all,0
+GAD02,Several days,1
+GAD02,More than half the days,2
+GAD02,Nearly every day,3
+GAD2RAW,,
+EDANX01,Never,1
+EDANX01,Rarely,2
+EDANX01,Sometimes,3
+EDANX01,Often,4
+EDANX01,Always,5
+EDANX40,Never,1
+EDANX40,Rarely,2
+EDANX40,Sometimes,3
+EDANX40,Often,4
+EDANX40,Always,5
+EDANX41,Never,1
+EDANX41,Rarely,2
+EDANX41,Sometimes,3
+EDANX41,Often,4
+EDANX41,Always,5
+EDANX53,Never,1
+EDANX53,Rarely,2
+EDANX53,Sometimes,3
+EDANX53,Often,4
+EDANX53,Always,5
+PRANX4AR,,
+PRANX4AT,,
+EDDEP04,Never,1
+EDDEP04,Rarely,2
+EDDEP04,Sometimes,3
+EDDEP04,Often,4
+EDDEP04,Always,5
+EDDEP06,Never,1
+EDDEP06,Rarely,2
+EDDEP06,Sometimes,3
+EDDEP06,Often,4
+EDDEP06,Always,5
+EDDEP29,Never,1
+EDDEP29,Rarely,2
+EDDEP29,Sometimes,3
+EDDEP29,Often,4
+EDDEP29,Always,5
+EDDEP41,Never,1
+EDDEP41,Rarely,2
+EDDEP41,Sometimes,3
+EDDEP41,Often,4
+EDDEP41,Always,5
+PRDEP4AR,,
+PRDEP4AT,,
+PAININ9,Not at all,1
+PAININ9,A little bit,2
+PAININ9,Somewhat,3
+PAININ9,Quite a bit,4
+PAININ9,Very much,5
+PAININ22,Not at all,1
+PAININ22,A little bit,2
+PAININ22,Somewhat,3
+PAININ22,Quite a bit,4
+PAININ22,Very much,5
+PAININ31,Not at all,1
+PAININ31,A little bit,2
+PAININ31,Somewhat,3
+PAININ31,Quite a bit,4
+PAININ31,Very much,5
+PAININ34,Not at all,1
+PAININ34,A little bit,2
+PAININ34,Somewhat,3
+PAININ34,Quite a bit,4
+PAININ34,Very much,5
+PRPI4AR,,
+PRPI4AT,,
+PFA11,Unable to do,1
+PFA11,With much difficulty,2
+PFA11,With some difficulty,3
+PFA11,With a little difficulty,4
+PFA11,Without any difficulty,5
+PFA21,Unable to do,1
+PFA21,With much difficulty,2
+PFA21,With some difficulty,3
+PFA21,With a little difficulty,4
+PFA21,Without any difficulty,5
+PFA23,Unable to do,1
+PFA23,With much difficulty,2
+PFA23,With some difficulty,3
+PFA23,With a little difficulty,4
+PFA23,Without any difficulty,5
+PFA53,Unable to do,1
+PFA53,With much difficulty,2
+PFA53,With some difficulty,3
+PFA53,With a little difficulty,4
+PFA53,Without any difficulty,5
+PFC12,Cannot do,1
+PFC12,Quite a lot,2
+PFC12,Somewhat,3
+PFC12,Very little,4
+PFC12,Not at all,5
+PFB1,Cannot do,1
+PFB1,Quite a lot,2
+PFB1,Somewhat,3
+PFB1,Very little,4
+PFB1,Not at all,5
+PRPF6BR,,
+PRPF6BT,,
+SLEEP109,Very good,1
+SLEEP109,Good,2
+SLEEP109,Fair,3
+SLEEP109,Poor,4
+SLEEP109,Very poor,5
+SLEEP116,Very much,1
+SLEEP116,Quite a bit,2
+SLEEP116,Somewhat,3
+SLEEP116,A little bit,4
+SLEEP116,Not at all,5
+SLEEP20,Not at all,1
+SLEEP20,A little bit,2
+SLEEP20,Somewhat,3
+SLEEP20,Quite a bit,4
+SLEEP20,Very much,5
+SLEEP44,Not at all,1
+SLEEP44,A little bit,2
+SLEEP44,Somewhat,3
+SLEEP44,Quite a bit,4
+SLEEP44,Very much,5
+SLEEP108,Not at all,1
+SLEEP108,A little bit,2
+SLEEP108,Somewhat,3
+SLEEP108,Quite a bit,4
+SLEEP108,Very much,5
+SLEEP72,Not at all,1
+SLEEP72,A little bit,2
+SLEEP72,Somewhat,3
+SLEEP72,Quite a bit,4
+SLEEP72,Very much,5
+PRSD6AR,,
+PRSD6AT,,
+PCS4,Not at all,0
+PCS4,To a slight degree,1
+PCS4,To a moderate degree,2
+PCS4,To a great degree,3
+PCS4,All the time,4
+PCS5,Not at all,0
+PCS5,To a slight degree,1
+PCS5,To a moderate degree,2
+PCS5,To a great degree,3
+PCS5,All the time,4
+PCS6,Not at all,0
+PCS6,To a slight degree,1
+PCS6,To a moderate degree,2
+PCS6,To a great degree,3
+PCS6,All the time,4
+PCS10,Not at all,0
+PCS10,To a slight degree,1
+PCS10,To a moderate degree,2
+PCS10,To a great degree,3
+PCS10,All the time,4
+PCS11,Not at all,0
+PCS11,To a slight degree,1
+PCS11,To a moderate degree,2
+PCS11,To a great degree,3
+PCS11,All the time,4
+PCS13,Not at all,0
+PCS13,To a slight degree,1
+PCS13,To a moderate degree,2
+PCS13,To a great degree,3
+PCS13,All the time,4
+PCSRAW,,
+PGIC1,Very much improved,0
+PGIC1,Much improved,1
+PGIC1,Minimally improved,2
+PGIC1,No change,3
+PGIC1,Minimally worse,4
+PGIC1,Much worse,5
+PGIC1,Very much worse,6
+TAPS1Q1,Daily or almost daily,0
+TAPS1Q1,Weekly,1
+TAPS1Q1,Monthly,2
+TAPS1Q1,Less than monthly,3
+TAPS1Q1,Never,4
+TAPS1Q2,Daily or almost daily,0
+TAPS1Q2,Weekly,1
+TAPS1Q2,Monthly,2
+TAPS1Q2,Less than monthly,3
+TAPS1Q2,Never,4
+TAPS1Q3,Daily or almost daily,0
+TAPS1Q3,Weekly,1
+TAPS1Q3,Monthly,2
+TAPS1Q3,Less than monthly,3
+TAPS1Q3,Never,4
+TAPS1Q4,Daily or almost daily,0
+TAPS1Q4,Weekly,1
+TAPS1Q4,Monthly,2
+TAPS1Q4,Less than monthly,3
+TAPS1Q4,Never,4
+TAPS1Q5,Daily or almost daily,0
+TAPS1Q5,Weekly,1
+TAPS1Q5,Monthly,2
+TAPS1Q5,Less than monthly,3
+TAPS1Q5,Never,4
+PHQ01,Not at all,0
+PHQ01,Several days,1
+PHQ01,More than half the days,2
+PHQ01,Nearly every day,3
+PHQ02,Not at all,0
+PHQ02,Several days,1
+PHQ02,More than half the days,2
+PHQ02,Nearly every day,3
+PHQ2RAW,,
+PSQI4,,
+LBPDF01,<3 months,1
+LBPDF01,3-6 months,2
+LBPDF01,6 months-1 year,3
+LBPDF01,1 to 5 years,4
+LBPDF01,More than 5 years,5
+LBPDF02,Every day or nearly every day,1
+LBPDF02,At least half the days,2
+LBPDF02,Less than half the days,3
+RADLBP1,Yes,1
+RADLBP1,No,0
+RADLBP1,Not sure,99
+RADLBP2,Yes,1
+RADLBP2,No,0
+RADLBP2,Not sure,99
+PNAREA1,Yes,1
+PNAREA1,No,0
+PNAREA2,Yes,1
+PNAREA2,No,0
+PNAREA3,Yes,1
+PNAREA3,No,0
+PNAREA4,Yes,1
+PNAREA4,No,0
+PNAREA5,Yes,1
+PNAREA5,No,0
+PNAREA6,Yes,1
+PNAREA6,No,0
+PNAREA7,Yes,1
+PNAREA7,No,0
+WDSPPNUM,,
+PSOM1,Not bothered at all,1
+PSOM1,Bothered a little,2
+PSOM1,Bothered a lot,3
+PSOM2,Not bothered at all,1
+PSOM2,Bothered a little,2
+PSOM2,Bothered a lot,3
+PEG1,No pain,0
+PEG1,1,1
+PEG1,2,2
+PEG1,3,3
+PEG1,4,4
+PEG1,5,5
+PEG1,6,6
+PEG1,7,7
+PEG1,8,8
+PEG1,9,9
+PEG1,Worst pain imaginable,10
+PEG2,No pain,0
+PEG2,1,1
+PEG2,2,2
+PEG2,3,3
+PEG2,4,4
+PEG2,5,5
+PEG2,6,6
+PEG2,7,7
+PEG2,8,8
+PEG2,9,9
+PEG2,Completely interferes,10
+PEG3,No pain,0
+PEG3,1,1
+PEG3,2,2
+PEG3,3,3
+PEG3,4,4
+PEG3,5,5
+PEG3,6,6
+PEG3,7,7
+PEG3,8,8
+PEG3,9,9
+PEG3,Completely interferes,10
+PEGSCORE,,
+LBPPINT1,No pain,0
+LBPPINT1,1,1
+LBPPINT1,2,2
+LBPPINT1,3,3
+LBPPINT1,4,4
+LBPPINT1,5,5
+LBPPINT1,6,6
+LBPPINT1,7,7
+LBPPINT1,8,8
+LBPPINT1,9,9
+LBPPINT1,Worst pain imaginable,10
+OPIOID01,Yes,1
+OPIOID01,No,0
+OPIOID01,Not sure,99
